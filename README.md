@@ -17,5 +17,6 @@ Installation :
 
 To Run the script:
 
-1: ./start_goldeneye.sh
+1: cd GoldenEye
+2: python2 goldeneye.py [url]
 ___________________________________________________________________
