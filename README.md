@@ -9,7 +9,7 @@ Installation :
 
 3: git clone https://github.com/tadasny/Termux-Golden-Eye
 
-4: cd Termux-The-Choice
+4: cd Termux-Golden-Eye
 
 5: chmod +x *
 
@@ -17,5 +17,5 @@ Installation :
 
 To Run the script:
 
-1: ./start_thechoice.sh
+1: ./start_goldeneye.sh
 ___________________________________________________________________
