@@ -6,3 +6,4 @@ apt install python
 clear
 apt install python2
 clear
+echo Please restart Termux!
