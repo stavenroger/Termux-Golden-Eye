@@ -1,6 +1,6 @@
 apt update && apt upgrade
 apt install git
-cd..
+cd ..
 git clone https://github.com/jseidl/GoldenEye/
 apt install python2
 clear
